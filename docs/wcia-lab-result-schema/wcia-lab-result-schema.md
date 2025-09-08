@@ -20,7 +20,7 @@ sidebar_position: 1
 
 ---
 
-[ChangeLog](/docs/wcia-lab-result-schema/CHANGELOG)
+[ChangeLog](/docs/wcia-lab-result-schema/change-log)
 
 ---
 

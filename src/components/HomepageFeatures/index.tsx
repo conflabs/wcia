@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     {
         title: 'API Coming Soon...',
         Svg: require('./assets/icon-api.svg').default,
-        segment_uri: '/blog/2025-08-25-ccrs-discussion-summary',
+        segment_uri: '/meetings/2025-08-25-ccrs-discussion-summary',
         description: (
             <>
                 WCIA is currently analyzing the CCRS traceability system for improvements in efficiency and reliability.
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     {
         title: 'Review the Minutes',
         Svg: require('./assets/icon-blog.svg').default,
-        segment_uri: '/blog',
+        segment_uri: '/meetings',
         description: (
             <>
                 Read the meeting summaries to learn details about the creation and modification of the JSON schemas.

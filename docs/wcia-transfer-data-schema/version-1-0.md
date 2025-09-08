@@ -13,8 +13,7 @@ sidebar_position: 8
 
 ## Transfer Data Schema
 
-* Transfer Data Schema Object [(WCIATransferDataSchema.json)](WCIATransferDataSchema.json)
-* Example of a Complete Object [(example.json)](example.json)
+* Transfer Data Schema Object [(WCIATransferDataSchema.json)](./assets/v-1-0-wcia-transfer-data-schema.json)
 
 ## Table of Contents
 
