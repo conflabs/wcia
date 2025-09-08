@@ -93,6 +93,24 @@ const config: Config = {
     themeConfig: {
         // Replace with your project's social card
         image: 'img/wcia-logo-black.svg',
+        metadata: [
+            {name: 'keywords', content: 'washington, cannabis, integrators, alliance, software, news'},
+        ],
+        headTags:{
+            tagName: 'script',
+            attributes: {
+                type: 'application/ld+json',
+            },
+            innerHTML: JSON.stringify({
+                '@context': 'https://schema.org/',
+                '@type': 'Organization',
+                name: 'Washington Cannabis Integrators Alliance',
+                alternateName: 'WCIA',
+                description: 'A community organization of cannabis professionals in Washington state focused on interoperability and collaboration.',
+                url: 'https://wcia.conflabs.com/',
+                logo: 'https://wcia.conflabs.com/img/wcia-logo-black.svg',
+            }),
+        },
         navbar: {
             title: 'WCIA',
             logo: {
@@ -170,15 +188,15 @@ const config: Config = {
                     items: [
                         {
                             label: 'RSS Feed',
-                            href: 'https://wcia.conflabs.com/blog/rss.xml',
+                            href: 'https://wcia.conflabs.com/meetings/rss.xml',
                         },
                         {
                             label: 'Atom Feed',
-                            href: 'https://wcia.conflabs.com/blog/atom.xml',
+                            href: 'https://wcia.conflabs.com/meetings/atom.xml',
                         },
                         {
                             label: 'JSON Feed',
-                            href: 'https://wcia.conflabs.com/blog/feed.json',
+                            href: 'https://wcia.conflabs.com/meetings/feed.json',
                         },
                     ],
                 },
