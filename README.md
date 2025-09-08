@@ -41,9 +41,3 @@ This command generates static content into the `build` directory and can be serv
 1. Run `git pull` to get the most recent updates.
 2. Run `npm run build` on the root of the project to create the build folder for web service.
 3. Redeploy the repository.
-
-## LOGO
-
-Silhouette Map of Washington State
-https://www.cleanpng.com/png-flag-of-washington-map-everstar-realty-flag-of-bel-1281279/download-png.html
-Unlimited downloads, no attribution required.
