@@ -1,0 +1,54 @@
+ccrs:
+  label: CCRS
+  permalink: /ccrs
+  description: CCRS referenced in document.
+
+traceability:
+  label: Traceability
+  permalink: /hello
+  description: Traceability referenced in document.
+
+release-cycle:
+  label: Release Cycle
+  permalink: /release-cycle
+  description: Release Cycle referenced in document.
+
+schema-changes:
+  label: Schema Changes
+  permalink: /schema-changes
+  description: Schema changes referenced in document.
+
+version-change:
+  label: Version Change
+  permalink: /version-change
+  description: Version change referenced in document.
+
+versioning:
+  label: Versioning
+  permalink: /versioning
+  description: Versioning referenced in document.
+
+v1-1:
+  label: v1.1
+  permalink: /v1.1
+  description: Version 1.1 referenced in document.
+
+v1-2:
+  label: v1.2
+  permalink: /v1.2
+  description: Version 1.2 referenced in document.
+
+v1-3:
+  label: v1.3
+  permalink: /v1.3
+  description: Version 1.3 referenced in document.
+
+v2-1:
+  label: v2.1
+  permalink: /v2.1
+  description: Version 2.1 referenced in document.
+
+v2-2:
+  label: v2.2
+  permalink: /v2.2
+  description: Version 2.2 referenced in document.
