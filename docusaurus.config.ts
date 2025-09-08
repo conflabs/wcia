@@ -164,14 +164,6 @@ const config: Config = {
                             label: 'Home',
                             to: '/',
                         },
-                        // {
-                        //     label: 'Docs',
-                        //     to: '/docs/intro',
-                        // },
-                        // {
-                        //     label: 'API',
-                        //     to: '/api/intro',
-                        // },
                     ],
                 },
                 {

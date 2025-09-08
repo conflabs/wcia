@@ -1,8 +1,10 @@
 ---
 slug: 20220128-wcia-technical-committee-report
 title: 'WCIA Technical Committee Report - 2022-01-28'
+description: 'Summary of resolutions and changes adopted by the WCIA Technical Committee meeting from 2022-01-28.'
 authors: [bobby]
 tags: [v1-3, versioning, release-cycle]
+keywords: [wcia, technical committee, schema, versioning, lab results, transfer data]
 ---
 
 # Technical Committee Report

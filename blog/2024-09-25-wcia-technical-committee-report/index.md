@@ -1,8 +1,10 @@
 ---
 slug: 2024-09-28-wcia-technical-committee-report
 title: 'WCIA Technical Committee Report - 2024-09-25'
+description: 'Summary of resolutions and changes adopted by the WCIA Technical Committee meeting from '
 authors: [bobby]
 tags: [schema-changes]
+keywords: [wcia, technical committee, schema, versioning, lab results, transfer data]
 ---
 
 # Technical Committee Report

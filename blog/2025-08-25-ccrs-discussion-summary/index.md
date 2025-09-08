@@ -1,8 +1,10 @@
 ---
 slug: 2025-08-25-ccrs-discussion-summary
 title: 'WCIA CCRS Discussion Summary - August 25, 2025'
+description: 'Summary of resolutions and changes adopted by the WCIA Technical Committee meeting from 2025-08-25'
 authors: [bobby]
 tags: [ccrs, traceability]
+keywords: [wcia, ccrs, traceability, performance, database, api]
 ---
 
 # WCIA CCRS Discussion Summary Report
