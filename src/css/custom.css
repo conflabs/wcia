@@ -5,50 +5,54 @@
  */
 
 /** Theme primary colors */
+/** Theme primary colors */
+
+/*PURPLE THEME */
 :root {
-    --ifm-color-primary: #4a90e2; /* Muted primary blue */
-    --ifm-color-primary-dark: #3b7dd8; /* Muted darker blue */
-    --ifm-color-primary-darker: #2a6fb3; /* Muted even darker blue */
-    --ifm-color-primary-darkest: #1a4f8c; /* Muted darkest blue */
-    --ifm-color-primary-light: #a3c1e0; /* Muted light blue */
-    --ifm-color-primary-lighter: #b7d4e8; /* Muted lighter blue */
-    --ifm-color-primary-lightest: #c9e1f0; /* Muted lightest blue */
+    --ifm-color-lightest: #7B00B2; /* Lightest */
+    --ifm-color-lighter: #6B00A2; /* Lighter */
+    --ifm-color-light: #5B0092;   /* Light */
+    --ifm-color-primary: #4B0082; /* Primary Color */
+    --ifm-color-dark: #3E0071;    /* Dark */
+    --ifm-color-darker: #32005C;   /* Darker */
+    --ifm-color-darkest: #260043;  /* Darkest */
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 [data-theme='dark'] {
-    --ifm-color-primary: #4a90e2; /* Muted primary blue */
-    --ifm-color-primary-dark: #3b7dd8; /* Muted darker blue */
-    --ifm-color-primary-darker: #2a6fb3; /* Muted even darker blue */
-    --ifm-color-primary-darkest: #1a4f8c; /* Muted darkest blue */
-    --ifm-color-primary-light: #a3c1e0; /* Muted light blue */
-    --ifm-color-primary-lighter: #b7d4e8; /* Muted lighter blue */
-    --ifm-color-primary-lightest: #c9e1f0; /* Muted lightest blue */
-    --ifm-code-font-size: 95%;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-color-lightest: #D4D6F0; /* Lightest */
+    --ifm-color-lighter: #C6B8EC; /* Lighter */
+    --ifm-color-light: #B89AE9;   /* Light */
+    --ifm-color-primary: #A77BE6; /* Primary Color */
+    --ifm-color-dark: #8B66C8;    /* Dark */
+    --ifm-color-darker: #7A5BB5;   /* Darker */
+    --ifm-color-darkest: #6A4FA2;  /* Darkest */
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-/* You can override the default Infima variables here. */
+
+
+/*BLUE THEME*/
 /*:root {*/
-/*  --ifm-color-primary: #2e8555;*/
-/*  --ifm-color-primary-dark: #29784c;*/
-/*  --ifm-color-primary-darker: #277148;*/
-/*  --ifm-color-primary-darkest: #205d3b;*/
-/*  --ifm-color-primary-light: #33925d;*/
-/*  --ifm-color-primary-lighter: #359962;*/
-/*  --ifm-color-primary-lightest: #3cad6e;*/
-/*  --ifm-code-font-size: 95%;*/
-/*  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);*/
+/*    --ifm-color-primary: #4a90e2; !* Muted primary blue *!*/
+/*    --ifm-color-primary-dark: #3b7dd8; !* Muted darker blue *!*/
+/*    --ifm-color-primary-darker: #2a6fb3; !* Muted even darker blue *!*/
+/*    --ifm-color-primary-darkest: #1a4f8c; !* Muted darkest blue *!*/
+/*    --ifm-color-primary-light: #a3c1e0; !* Muted light blue *!*/
+/*    --ifm-color-primary-lighter: #b7d4e8; !* Muted lighter blue *!*/
+/*    --ifm-color-primary-lightest: #c9e1f0; !* Muted lightest blue *!*/
+/*    --ifm-code-font-size: 95%;*/
+/*    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);*/
 /*}*/
 
-/*For readability concerns, you should choose a lighter palette in dark mode. */
 /*[data-theme='dark'] {*/
-/*  --ifm-color-primary: #25c2a0;*/
-/*  --ifm-color-primary-dark: #21af90;*/
-/*  --ifm-color-primary-darker: #1fa588;*/
-/*  --ifm-color-primary-darkest: #1a8870;*/
-/*  --ifm-color-primary-light: #29d5b0;*/
-/*  --ifm-color-primary-lighter: #32d8b4;*/
-/*  --ifm-color-primary-lightest: #4fddbf;*/
-/*  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);*/
+/*    --ifm-color-primary: #4a90e2; !* Muted primary blue *!*/
+/*    --ifm-color-primary-dark: #3b7dd8; !* Muted darker blue *!*/
+/*    --ifm-color-primary-darker: #2a6fb3; !* Muted even darker blue *!*/
+/*    --ifm-color-primary-darkest: #1a4f8c; !* Muted darkest blue *!*/
+/*    --ifm-color-primary-light: #a3c1e0; !* Muted light blue *!*/
+/*    --ifm-color-primary-lighter: #b7d4e8; !* Muted lighter blue *!*/
+/*    --ifm-color-primary-lightest: #c9e1f0; !* Muted lightest blue *!*/
+/*    --ifm-code-font-size: 95%;*/
+/*    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);*/
 /*}*/
